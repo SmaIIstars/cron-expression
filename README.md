@@ -1,3 +1,3 @@
 # Cron Expression
 
-[cron expression](http://smallstars.top/cron-expression)
+[cron expression](http://cron.smallstars.top)
