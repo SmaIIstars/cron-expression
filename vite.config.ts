@@ -16,4 +16,7 @@ export default defineConfig({
       store: resolve("@/store"),
     },
   },
+  build: {
+    outDir: "cron-expression",
+  },
 });
